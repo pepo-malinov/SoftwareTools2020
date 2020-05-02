@@ -8,9 +8,9 @@ package uni.fmi.st;
  *
  */
 public class Test1 {
-	
-	public void test() {
-		
+
+	public int sum(final int first, final int second) {
+		return first + second;
 	}
 
 }
